@@ -1,0 +1,25 @@
+main {
+    
+  text-align: center;
+  vertical-align: center;
+    color: black;
+}
+.center{
+    background-color:#b0a0b0;
+    margin: 5px 10px;
+    font-size: 30px;
+}
+button{
+    background-color:#b0a0b0;
+    margin: 15px 10px;
+    font-size: 30px;
+    border-radius: 10px solid black ;
+    color: Green;
+}
+input{
+    background-color:#b0a0b0;
+    margin: 5px 10px;
+    font-size: 30px;
+    border-radius: 10px solid black ;
+    color: black;
+}
